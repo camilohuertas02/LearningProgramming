@@ -1,0 +1,5 @@
+como ejecutar:
+g++ [nombrearchivo.cpp] -o [nombreprograma]
+
+ejercicios
+1. hola mundo
