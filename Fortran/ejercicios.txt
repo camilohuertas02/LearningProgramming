@@ -1,1 +1,6 @@
+como ejecutar:
+-> gfortran [nombrearchivo] -o [nombreejecutable]
+
+
+Ejercicios:
 1. Hola mundo

@@ -1,1 +1,5 @@
+Como ejecutar:
+-> python3 [nombrearchivo]
+
+Ejercicios:
 1. Hola mundo
