@@ -1,0 +1,7 @@
+como ejecutar:
+-> julia [nombrearchivo.jl]
+o en terminal como 
+-> julia
+
+ejercicios:
+1. hola mundo
