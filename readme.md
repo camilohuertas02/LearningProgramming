@@ -18,7 +18,7 @@ Ejercicios prácticos en múltiples lenguajes de programación, enfocados en pro
 1. Hola mundo (python, julia, fortran):
 
 2. Calculadora básica ():
-    Crea un programa que permita al usuario ingresar dos números y luego realice las siguientes operaciones aritméticas: suma, resta, multiplicación y división.
+Crea un programa que permita al usuario ingresar dos números y luego realice las siguientes operaciones aritméticas: suma, resta, multiplicación y división.
 
 3. Fibonacci ():
     Escribe un programa que calcule el n-ésimo número de Fibonacci utilizando una función recursiva o iterativa. La secuencia de Fibonacci comienza con 0 y 1, y cada número siguiente es la suma de los dos anteriores.
