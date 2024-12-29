@@ -1,0 +1,9 @@
+como ejecutar:
+-la extensiond de archivos en Rust es .rs
+-quien programa en esto se hace llamar rustáceo y tienen un cangrejo muy mono de mascota llamado Ferris
+- es compilable con 
+	->rustc [nombrearchivo.rs]
+
+
+ejercicios: 
+1. hola mundo
