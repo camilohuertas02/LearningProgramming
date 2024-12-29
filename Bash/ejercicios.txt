@@ -1,0 +1,9 @@
+como ejecutar:
+-> touch [nombrearchivo.sh]
+-> chmod -x [nombrearchivo.sh]
+-> ./nombrearchivo.sh
+Es compilable
+
+
+ejercicios:
+1. hola mundo

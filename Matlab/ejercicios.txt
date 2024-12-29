@@ -1,0 +1,6 @@
+como ejecutar
+	- la extension es .m
+	- para ejecutarlo, es necesario usar matlab online y cartar el script (se puede por terminal)
+
+ejercicios:
+1. hola mundo
