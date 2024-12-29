@@ -15,7 +15,7 @@ Ejercicios prácticos en múltiples lenguajes de programación, enfocados en pro
 
 ### Fundamentales:
 
-1. Hola mundo (Hecho en python, julia, fortran, c++, rust):
+1. Hola mundo (Hecho en python, julia, fortran, c++, rust, R):
 
 2. Calculadora básica (Hecho en ):
 

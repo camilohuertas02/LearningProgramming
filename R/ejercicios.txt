@@ -1,0 +1,7 @@
+como ejecutar:
+-> Rscript [nombrearchivo.R]
+no es un lenguaje compilable, el interprete es Rscript
+
+
+ejercicios:
+1. hola mundo
