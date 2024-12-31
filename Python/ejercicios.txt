@@ -3,3 +3,4 @@ Como ejecutar:
 
 Ejercicios:
 1. Hola mundo
+2. Calculadora basica

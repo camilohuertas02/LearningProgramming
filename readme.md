@@ -17,7 +17,7 @@ Ejercicios prácticos en múltiples lenguajes de programación, enfocados en pro
 
 1. Hola mundo (Hecho en python, julia, fortran, c++, rust, R, bash, matlab):
 
-2. Calculadora básica (Hecho en ):
+2. Calculadora básica (Hecho en python):
 
 Crea un programa que permita al usuario ingresar dos números y luego realice las siguientes operaciones aritméticas: suma, resta, multiplicación y división.
 
