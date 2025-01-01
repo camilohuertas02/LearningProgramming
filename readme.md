@@ -21,11 +21,11 @@ Ejercicios prácticos en múltiples lenguajes de programación, enfocados en pro
 
 Crea un programa que permita al usuario ingresar dos números y luego realice las siguientes operaciones aritméticas: suma, resta, multiplicación y división.
 
-3. Fibonacci (Hecho en ):
+3. Fibonacci (Hecho en python):
 
 Escribe un programa que calcule el n-ésimo número de Fibonacci utilizando una función recursiva o iterativa. La secuencia de Fibonacci comienza con 0 y 1, y cada número siguiente es la suma de los dos anteriores.
 
-4. Factorial de un número (Hecho en ):
+4. Factorial de un número (Hecho en python):
 
 Haz un programa que calcule el factorial de un número ingresado por el usuario. El factorial de un número n (denotado como n!) es el producto de todos los números enteros positivos menores o iguales a n.
 

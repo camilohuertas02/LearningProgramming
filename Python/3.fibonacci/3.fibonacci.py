@@ -14,10 +14,24 @@ entrada = int(input())
 
 # Forma 1: con funcion recursiva:
 
-def recursiva(entrada):
+def fibonacci_recursivo(n):
+    if n == 0:  # Caso base 1
+        return 0
+    elif n == 1:  # Caso base 2
+        return 1
+    else:  # Llamada recursiva
+        return fibonacci_recursivo(n - 1) + fibonacci_recursivo(n - 2)
 
-    print("\nLa sucesion en funcion recursiva es:")
+# Pedir el número n al usuario
+n = int(input("Ingresa el número n para calcular el n-ésimo Fibonacci: "))
 
+# Imprimir los números de la sucesión hasta el enésimo
+print("Sucesión de Fibonacci:")
+for i in range(n + 1):
+    print(fibonacci_recursivo(i), end=" ")
+
+
+        
 
 # Forma 2: con funcion iterativa:
 
@@ -31,6 +45,5 @@ def iterativa(entrada):
         b = a
         a = c
 
-recursiva(entrada)
 iterativa(entrada)
 

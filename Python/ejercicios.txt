@@ -5,3 +5,4 @@ Ejercicios:
 1. Hola mundo
 2. Calculadora basica
 3. fibonacci
+4. factorial
